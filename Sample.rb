@@ -21,5 +21,3 @@ puts Dog.new.speak  # => Woof!
 #Hi Guys, I have pulled new changes from test branch into my test branch - Prathap.
 
 #Hi Guys, pull request.
-
-#Hi Guys, test here pulled latest changes from master that had been pushed by tests.
