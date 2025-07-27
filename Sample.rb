@@ -22,4 +22,4 @@ puts Dog.new.speak  # => Woof!
 
 #Hi Guys, pull request.
 
-#Hi Guys, Im tests branch modification.
+#Hi Guys, test here pulled latest changes from master that had been pushed by tests.
