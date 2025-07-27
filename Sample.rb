@@ -29,3 +29,5 @@ puts Dog.new.speak  # => Woof!
 #Conflict message will be removed.
 
 #to make conflict.
+
+#for pull request
