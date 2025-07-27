@@ -24,4 +24,12 @@ puts Dog.new.speak  # => Woof!
 
 #Hi Guys, tests here.
 
+<<<<<<< HEAD
 #Hi Guys, test here.
+=======
+#Hi Guys, test here.
+
+#Conflict message will be removed.
+
+#to make conflict.
+>>>>>>> tests
