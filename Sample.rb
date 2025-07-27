@@ -27,3 +27,5 @@ puts Dog.new.speak  # => Woof!
 #Hi Guys, test here.
 
 #Conflict message will be removed.
+
+#to make conflict.
